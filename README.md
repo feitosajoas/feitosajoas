@@ -6,9 +6,10 @@ I'm current work at [Direction Systems Ltda.](https://www.direction.com.br)
 
 I'm learning at the moment **Automation of API tests with Postman**.
 
-[![image](https://img.shields.io/badge/Joass-E4405F?style=fat-square&logo=instagram&logoColor=white&link:https://www.instagram.com/joass._/)](https://www.instagram.com/joass._/)
-[![image](https://img.shields.io/badge/-joasfeitosadelimasilva-D14836?style=fat-square&logo=Gmail&logoColor=white)](joasfeitosadelimasilva@gmail.com)
-[![Linkedin: joas-feitosa](https://img.shields.io/badge/-feitosajoas-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feitosajoas/)](https://www.linkedin.com/in/feitosajoas/)
+[![instagram](https://img.shields.io/badge/Joass-E4405F?style=fat-square&logo=instagram&logoColor=white&link:https://www.instagram.com/joass._/)](https://www.instagram.com/joass._/)
+[![Ltwitter](https://img.shields.io/badge/joasdecopas-blue?style=fat-square&logo=Twitter&logoColor=white&link=https://twitter.com/joasdecopas)](https://twitter.com/joasdecopas)
+[![gmail](https://img.shields.io/badge/-joasfeitosadelimasilva-D14836?style=fat-square&logo=Gmail&logoColor=white)](joasfeitosadelimasilva@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-feitosajoas-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feitosajoas/)](https://www.linkedin.com/in/feitosajoas/)
 
 ## 🚀💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=fat-square&logo=javascript&logoColor=black)
