@@ -20,6 +20,8 @@ I'm learning at the moment **Automation of API tests with Postman**.
 ![npm](https://img.shields.io/badge/npm-CB3837?style=fat-square&logo=npm&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=fat-square&logo=sass&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=fat-square&logo=.net&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=fat-square&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=fat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=fat-square&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=fat-square&logo=Postman&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=fat-square&logo=git&logoColor=white)
