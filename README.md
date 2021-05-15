@@ -7,7 +7,7 @@ I'm current work at [Direction Systems Ltda.](https://www.direction.com.br)
 I'm learning at the moment **Automation of API tests with Postman**.
 
 [![instagram](https://img.shields.io/badge/Joass-E4405F?style=fat-square&logo=instagram&logoColor=white&link:https://www.instagram.com/joass._/)](https://www.instagram.com/joass._/)
-[![Ltwitter](https://img.shields.io/badge/joasdecopas-blue?style=fat-square&logo=Twitter&logoColor=white&link=https://twitter.com/joasdecopas)](https://twitter.com/joasdecopas)
+[![Ltwitter](https://img.shields.io/badge/joasdecopas-1DA1F2?style=fat-square&logo=Twitter&logoColor=white&link=https://twitter.com/joasdecopas)](https://twitter.com/joasdecopas)
 [![gmail](https://img.shields.io/badge/-joasfeitosadelimasilva-D14836?style=fat-square&logo=Gmail&logoColor=white)](joasfeitosadelimasilva@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-feitosajoas-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feitosajoas/)](https://www.linkedin.com/in/feitosajoas/)
 
