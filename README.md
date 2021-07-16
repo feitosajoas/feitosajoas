@@ -1,6 +1,6 @@
 # Hi 👋 I'm Joás
 
-Trainee Full Stack developer at Direction Systems, Coffee lover, JavaScript and SPA fan. Currently in love with RxJS and Reactive Programming.
+Fullstack developer Jr. at Direction Systems, Coffee lover, JavaScript and SPA fan. Currently in love with RxJS and Reactive Programming.
 
 I'm current work at [Direction Systems Ltda.](https://www.direction.com.br)
 
