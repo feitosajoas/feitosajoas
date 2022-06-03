@@ -4,7 +4,7 @@ Fullstack developer Jr. at Direction Systems, Coffee lover, JavaScript and SPA f
 
 I'm current work at [Direction Systems Ltda.](https://www.direction.com.br)
 
-I'm learning at the moment **Programming with C#**.
+I'm learning at the moment **React, React-native and Node.js**.
 
 [![instagram](https://img.shields.io/badge/Joass-E4405F?style=fat-square&logo=instagram&logoColor=white&link:https://www.instagram.com/joass._/)](https://www.instagram.com/joass._/)
 [![Ltwitter](https://img.shields.io/badge/joasdecopas-1DA1F2?style=fat-square&logo=Twitter&logoColor=white&link=https://twitter.com/joasdecopas)](https://twitter.com/joasdecopas)
