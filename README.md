@@ -2,7 +2,7 @@
 
 Fullstack developer Jr. at Direction Systems, Coffee lover, JavaScript and SPA fan. Currently in love with RxJS and Reactive Programming.
 
-I'm current work at [Direction Systems Ltda.](https://www.direction.com.br)
+I'm current work at [Dasa Empresas.](https://dasa.com.br/)
 
 I'm learning at the moment **React, React-native and Node.js**.
 
