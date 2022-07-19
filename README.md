@@ -1,6 +1,6 @@
 # Hi 👋 I'm Joás
 
-Fullstack Developer Mid Level. at Dasa Empresas, Coffee lover, JavaScript and SPA fan. Currently in love with RxJS and Reactive Programming.
+Fullstack Developer Mid Level at Dasa Empresas, Coffee lover, JavaScript and SPA fan. Currently in love with RxJS and Reactive Programming.
 
 I'm current work at [Dasa Empresas.](https://dasa.com.br/)
 
