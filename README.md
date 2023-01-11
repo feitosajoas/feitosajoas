@@ -2,7 +2,7 @@
 
 Fullstack Developer Mid Level at Dasa Empresas, Coffee lover, JavaScript and SPA fan. Currently in love with RxJS and Reactive Programming.
 
-I'm current work at [Dasa Empresas.](https://dasa.com.br/)
+I'm current work at [Dasa.](https://dasa.com.br/)
 
 I'm learning at the moment **React, React-native and Node.js**.
 
