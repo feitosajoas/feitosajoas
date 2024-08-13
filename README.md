@@ -6,7 +6,7 @@ Fullstack Developer at Noxtec, Coffee lover, JavaScript and SPA fan. Currently i
 const joas = {
     technologies: {
         backEnd: {
-            languages: ["C#", "Node", "TypeScript", "Java",,
+            languages: ["C#", "Node", "TypeScript", "Java"],
             frameworks: [".NET", "SpringBoot", "NestJs"],
             orms: ["Entity Framework", "Prisma", "Spring JPA"]
         },
@@ -20,11 +20,11 @@ const joas = {
     },
     architecture: ["Client-Server Architecture", "PWA", "SPA", "Microservices"],
     currentFocus: "Study software architecture and frameworks for mobile development.",
-    funFact: "My friends think I look like Mbappé."
+    funFact: "My friends think I look like Mbappé.",
     contacts: {
             email: ["joasfeitosadelimasilva@gmail.com", "joas.freela@gmail.com"],
             linkedIn: "https://www.linkedin.com/in/joas-feitosa/",
-            twitter(x): "@joasdecopas"
+            twitter(x): "@joasdecopas",
             phoneNumber: "(81) 9 9136-6472"
         }, 
 };
