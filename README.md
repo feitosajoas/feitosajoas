@@ -22,11 +22,11 @@ const joas = {
     currentFocus: "Study software architecture and frameworks for mobile development.",
     funFact: "My friends think I look like Mbappé.",
     contacts: {
-            email: ["joasfeitosadelimasilva@gmail.com", "joas.freela@gmail.com"],
-            linkedIn: "https://www.linkedin.com/in/joas-feitosa/",
-            twitter(x): "@joasdecopas",
-            phoneNumber: "(81) 9 9136-6472"
-        }, 
+        email: ["joasfeitosadelimasilva@gmail.com", "joas.freela@gmail.com"],
+        linkedIn: "https://www.linkedin.com/in/joas-feitosa/",
+        twitter(x): "@joasdecopas",
+        phoneNumber: "(81) 9 9136-6472"
+    }, 
 };
 ```
 
