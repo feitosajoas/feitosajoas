@@ -15,7 +15,7 @@ const joas = {
             ui-ux: ["Figma", "AdobeXD"]
         },
         mobileApp: ["React-Native", "Xamarin"],
-        devOps: ["Azure", "GCP", "Docker🐳"],
+        devOps: ["Azure", "GCP", "Docker"],
         databases: ["SQL Server", "PostgresSQL", "MySql", "MongoDB", "sqlite"]
     },
     architecture: ["Client-Server Architecture", "PWA", "SPA", "Microservices"],
