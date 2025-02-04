@@ -30,5 +30,5 @@ const joas = {
 };
 ```
 
-I'm current work at [Noxtec.](https://noxtec.com.br/)
+I'm current work at [Blue Technology.](https://bluetechnology.com.br/)
 
